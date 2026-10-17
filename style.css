@@ -1,0 +1,28 @@
+/* 合同会社Tessera Studio のサイト共通。色はアプリ（メーターマップ）の法定ページの下書きと同じ */
+:root{--ink:#1C1D1F;--sub:#4A4D52;--line:#ECEAE4;--bg:#fff;--soft:#F7F6F2}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.8 "Zen Kaku Gothic New","Hiragino Sans","Hiragino Kaku Gothic ProN",system-ui,sans-serif;-webkit-text-size-adjust:100%}
+header,main,footer{max-width:720px;margin:0 auto;padding-left:16px;padding-right:16px}
+header{padding-top:24px;padding-bottom:8px;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+header a{color:var(--ink);text-decoration:none;font-weight:700;letter-spacing:.02em}
+header nav a{font-weight:400;color:var(--sub);margin-left:16px;font-size:14px}
+main{padding-top:24px;padding-bottom:48px}
+h1{font-size:24px;line-height:1.4;margin:0 0 12px}
+h2{font-size:17px;margin:32px 0 8px}
+p,li{margin:0 0 8px}
+a{color:var(--ink)}
+.lead{color:var(--sub);margin-bottom:24px}
+table{width:100%;border-collapse:collapse}
+th,td{text-align:left;vertical-align:top;padding:12px 8px;border-top:1px solid var(--line)}
+th{width:9em;color:var(--sub);font-weight:700}
+.card{display:block;border:1px solid var(--line);border-radius:14px;padding:16px;margin:0 0 12px;text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,.04)}
+.card b{display:block;font-size:16px}
+.card span{color:var(--sub);font-size:14px}
+details{border-top:1px solid var(--line);padding:10px 0}
+details:last-of-type{border-bottom:1px solid var(--line)}
+summary{cursor:pointer;font-weight:700}
+details p{margin:8px 0 0;color:var(--sub)}
+.note{background:var(--soft);border-radius:10px;padding:12px 14px;color:var(--sub);font-size:14px}
+footer{padding-bottom:32px;color:var(--sub);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
+footer a{color:var(--sub);margin-right:16px}
+@media (max-width:480px){th{width:7em}h1{font-size:21px}}
