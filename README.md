@@ -1,6 +1,6 @@
 # tesseras.jp
 
-合同会社Tessera Studio の会社サイト。GitHub Pages で公開し、独自ドメイン tesseras.jp につなぐ。
+合同会社Tessera Studio の会社サイト。GitHub の Organization「Tessera-Studio」の GitHub Pages で公開し、独自ドメイン tesseras.jp につなぐ。
 
 | URL | ファイル | 使い道 |
 |---|---|---|
@@ -24,6 +24,6 @@
 | （空欄） | A | 185.199.109.153 |
 | （空欄） | A | 185.199.110.153 |
 | （空欄） | A | 185.199.111.153 |
-| www | CNAME | hodakamiwako-art.github.io |
+| www | CNAME | tessera-studio.github.io |
 
 GitHub の Settings → Pages で「Custom domain」に `tesseras.jp` を入れ、確認が通ったら「Enforce HTTPS」をオンにする。
