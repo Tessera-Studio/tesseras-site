@@ -7,7 +7,7 @@
 | https://tesseras.jp/ | `index.html` | 会社のトップ・会社概要 |
 | https://tesseras.jp/metermap/ | `metermap/index.html` | メーターマップの紹介・よくある質問・サポート（App Store の「サポート URL」） |
 | https://tesseras.jp/metermap/privacy | `metermap/privacy.html` | プライバシーポリシー（App Store の「プライバシーポリシー URL」） |
-| https://tesseras.jp/app-ads.txt | `app-ads.txt`（まだない） | AdMob。本番の発行者 ID が決まってから置く |
+| https://tesseras.jp/app-ads.txt | `app-ads.txt` | AdMob の発行者 ID（pub-8846614684110251）。App Store の「マーケティング URL」の tesseras.jp を AdMob が確かめる |
 
 ## 公開前に埋めるところ
 
