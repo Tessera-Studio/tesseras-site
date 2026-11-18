@@ -11,7 +11,6 @@
 
 ## 公開前に埋めるところ
 
-- `metermap/privacy.html`：所在地（変更登記の完了後）と制定日の【 】
 - 特定商取引法に基づく表記（`/legal`）：所在地と電話番号が決まってから、parking-meter-map の `docs/drafts/legal.html` をもとに足す
 
 ## DNS（お名前.com）
