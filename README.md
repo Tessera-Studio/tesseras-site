@@ -7,11 +7,12 @@
 | https://tesseras.jp/ | `index.html` | 会社のトップ・会社概要 |
 | https://tesseras.jp/metermap/ | `metermap/index.html` | メーターマップの紹介・よくある質問・サポート（App Store の「サポート URL」） |
 | https://tesseras.jp/metermap/privacy | `metermap/privacy.html` | プライバシーポリシー（App Store の「プライバシーポリシー URL」） |
+| https://tesseras.jp/legal | `legal.html` | 特定商取引法に基づく表記（メーターマップのプレミアムの販売）。アプリの購入シート・ヘルプからも開く |
 | https://tesseras.jp/app-ads.txt | `app-ads.txt` | AdMob の発行者 ID（pub-8846614684110251）。App Store の「マーケティング URL」の tesseras.jp を AdMob が確かめる |
 
 ## 公開前に埋めるところ
 
-- 特定商取引法に基づく表記（`/legal`）：所在地と電話番号が決まってから、parking-meter-map の `docs/drafts/legal.html` をもとに足す
+いまはなし（プライバシーポリシーと特定商取引法に基づく表記は公開済み）。
 
 ## DNS（お名前.com）
 
