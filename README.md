@@ -8,7 +8,7 @@
 | https://tesseras.jp/metermap/ | `metermap/index.html` | メーターマップの紹介・よくある質問・サポート（App Store の「サポート URL」） |
 | https://tesseras.jp/metermap/privacy | `metermap/privacy.html` | プライバシーポリシー（App Store の「プライバシーポリシー URL」） |
 | https://tesseras.jp/legal | `legal.html` | 特定商取引法に基づく表記（メーターマップのプレミアムの販売）。アプリの購入シート・ヘルプからも開く |
-| https://tesseras.jp/app-ads.txt | `app-ads.txt` | AdMob の発行者 ID（pub-8846614684110251）。App Store の「マーケティング URL」の tesseras.jp を AdMob が確かめる |
+| https://tesseras.jp/app-ads.txt | `app-ads.txt` | AdMob の発行者 ID（会社のアカウント pub-4938846991161247）。App Store の「マーケティング URL」の tesseras.jp を AdMob が確かめる。前のアカウント（pub-8846614684110251）の行は、メーターマップ 1.0（ビルド 2）に古い ID が入っているあいだだけ残す |
 
 ## 公開前に埋めるところ
 
