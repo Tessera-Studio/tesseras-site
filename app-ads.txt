@@ -1,4 +1,1 @@
-# MeterMap (AdMob, Tessera Studio LLC account)
 google.com, pub-4938846991161247, DIRECT, f08c47fec0942fa0
-# Previous account, still in MeterMap 1.0 build 2. Remove after a build with the new IDs is released.
-google.com, pub-8846614684110251, DIRECT, f08c47fec0942fa0
