@@ -2,6 +2,13 @@
 
 合同会社Tessera Studio の会社サイト。GitHub の Organization「Tessera-Studio」の GitHub Pages で公開し、独自ドメイン tesseras.jp につなぐ。
 
+> **2026年11月26日から、tesseras.jp はこのリポジトリでは公開していない。** 別の Claude のセッションで作った新しい会社サイトが tesseras.jp で公開されている。
+> このリポジトリのファイルは、元の文面として残している（表には出ていない）。
+>
+> 新しいサイトに切り替えたとき、下の表の4つの URL（`/metermap/`・`/metermap/privacy`・`/legal`・`/app-ads.txt`）がすべてトップページになり、App Store・AdMob・アプリ内のリンクが開けなくなった。
+> 同じ日に、新しいサイトの側でこの4つを足して直した。
+> **プライバシーポリシー・特定商取引法に基づく表記・app-ads.txt を直すときは、新しいサイトの側を直す。** 新しいサイトを作り直すときも、この4つの URL を消さない（`app-ads.txt` は HTML ではなく文字だけのファイルで返す）。
+
 | URL | ファイル | 使い道 |
 |---|---|---|
 | https://tesseras.jp/ | `index.html` | 会社のトップ・会社概要 |
